@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>测试代办事项应用</title>
+    <script src="todo-app.js"></script>
+</head>
+<body>
+    <h1>测试代办事项应用功能</h1>
+    <ol>
+        <li>打开应用：<a href="http://localhost:8000/todo-app.html" target="_blank">点击这里</a></li>
+        <li>测试添加任务</li>
+        <li>测试编辑任务</li>
+        <li>测试删除任务</li>
+        <li>测试完成任务</li>
+        <li>测试筛选功能</li>
+        <li>测试排序功能</li>
+        <li>测试搜索功能</li>
+        <li>测试主题切换</li>
+        <li>测试数据导出</li>
+        <li>测试数据导入</li>
+        <li>测试数据备份</li>
+        <li>测试数据恢复</li>
+        <li>测试通知功能（需要允许通知权限）</li>
+    </ol>
+    <p>请逐一测试以上功能，确认无误后告诉我结果。</p>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "effortLevel": "max",
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "ak_2Mh4ZS50N7MW8n84wv7MU8DX40Z4z",
+    "ANTHROPIC_BASE_URL": "https://api.longcat.chat/anthropic",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "LongCat-Flash-Thinking-2601",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "LongCat-Flash-Thinking-2601",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "LongCat-Flash-Thinking-2601",
+    "ANTHROPIC_MODEL": "LongCat-Flash-Thinking-2601",
+    "ANTHROPIC_REASONING_MODEL": "LongCat-Flash-Thinking-2601",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": 1,
+    "CLAUDE_CODE_MAX_OUTPUT_TOKENS": "6000"
+  },
+  "includeCoAuthoredBy": false,
+  "model": "sonnet[1m]"
+}

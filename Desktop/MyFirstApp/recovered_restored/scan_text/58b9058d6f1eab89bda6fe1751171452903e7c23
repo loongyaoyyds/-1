@@ -1,0 +1,23 @@
+{
+  "showInTray": true,
+  "minimizeToTrayOnClose": true,
+  "enableClaudePluginIntegration": true,
+  "skipClaudeOnboarding": true,
+  "launchOnStartup": false,
+  "silentStartup": false,
+  "enableLocalProxy": false,
+  "proxyConfirmed": true,
+  "usageConfirmed": true,
+  "streamCheckConfirmed": true,
+  "enableFailoverToggle": false,
+  "language": "zh",
+  "visibleApps": {
+    "claude": true,
+    "codex": true,
+    "gemini": true,
+    "opencode": true,
+    "openclaw": true
+  },
+  "currentProviderClaude": "c5db41d5-0819-48fe-9147-4d1d0d5d5eef",
+  "skillSyncMethod": "symlink"
+}
